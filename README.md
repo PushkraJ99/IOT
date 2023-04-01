@@ -31,7 +31,7 @@ Clone the Project
 Go to the Project Directory
 
 ```bash
-  cd iot
+  cd IOT
 ```
 
 Install Dependencies
