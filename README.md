@@ -86,7 +86,7 @@ Then Visit http://localhost:1880
 | Parameter  | Description    |
 | :--------  | :--------------|
 | `GND`      |  **Ground**    |
-| `VCCy`     | **3.3V / 5V**. |
+| `VCC`      | **3.3V / 5V**. |
 | `DIO`      |   **GPIO**.    |
 | `CLK`      |   **GPIO**.    |
 | `Mean Pin` |     **6**.     |
