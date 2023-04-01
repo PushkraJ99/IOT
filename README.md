@@ -6,4 +6,7 @@ cd iot
 
 sudo pip install -r requirements.txt
 
+cd Node-red
+sudo bash run.sh
+
 Enjoy !!
