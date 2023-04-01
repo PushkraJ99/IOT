@@ -25,7 +25,7 @@ Setup & Run Any IoT Practicals With Only Single Command Lines
 Clone the Project
 
 ```bash
-  git clone https://github.com/PushkraJ99/iot.git
+  git clone https://github.com/PushkraJ99/IOT.git
 ```
 
 Go to the Project Directory
