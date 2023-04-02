@@ -89,13 +89,13 @@ Then Visit http://localhost:1880
 
 | Parameter | Pin Number     |
 | :-------- | :------------- |
-| `id`      |    **PIN 1**   |
-| `id`      |   **PIN 22**   |
-| `id`      |   **PIN 6**    |
-| `id`      |   **PIN 21**   |
-| `id`      |   **PIN 19**   |
-| `id`      |   **PIN 23**   |
-| `id`      |   **PIN 24**   |
+| `3.3 V`   |    **PIN 1**   |
+| `RST`     |   **PIN 22**   |
+| `GND`     |   **PIN 6**    |
+| `MISO`    |   **PIN 21**   |
+| `MOSI`    |   **PIN 19**   |
+| `SCK`     |   **PIN 23**   |
+| `SDA`     |   **PIN 24**   |
 
 
 
