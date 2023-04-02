@@ -78,13 +78,11 @@ Then Visit http://localhost:1880
 #### Server Segment Connections
 
 | Parameter  | Description    |
-| :--------  | :--------------|
-| `GND`      |  **Ground**    |
-| `VCC`      | **3.3V / 5V**. |
+| :--------  | :-----------------|
+| `GND`      | **Ground Pin 6**    |
+| `VCC`      | **3.3V / 5V Pin 1 OR 2**. |
 | `DIO`      |   **GPIO**.    |
 | `CLK`      |   **GPIO**.    |
-| `Mean Pin` |     **6**.     |
-| `Means Pin`|   **1 OR 2**.  |
 
 
 #### RFID
