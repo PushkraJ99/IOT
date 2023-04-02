@@ -107,7 +107,8 @@ Then Visit http://localhost:1880
 
 # Enjoy !!!
 
-[![](https://visitcount.itsvg.in/api?id=PushkraJ99/IOT&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+
 <p align="center">
 <img src="https://github.com/PushkraJ99/PushkraJ99/blob/output/github-contribution-grid-snake.svg">
 </p>
