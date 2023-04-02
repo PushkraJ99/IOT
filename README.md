@@ -110,5 +110,5 @@ Then Visit http://localhost:1880
 [![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
 
 <p align="center">
-<img src="https://github.com/PushkraJ99/PushkraJ99/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/PushkraJ99/PushkraJ99/blob/main/output/github-contribution-grid-snake.svg">
 </p>
