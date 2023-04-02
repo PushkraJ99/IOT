@@ -106,3 +106,5 @@ Then Visit http://localhost:1880
  [![PushkraJ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
 
 # Enjoy !!!
+
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99/IOT&icon=8&color=12)](https://visitcount.itsvg.in)
