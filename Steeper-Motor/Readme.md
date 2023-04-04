@@ -1,10 +1,61 @@
-Motor Connections
-The diagram to the left shows the 5 wires connected to the motor. Plug the motor into the driver board.
-The Arduino should be connected to the ULN2003 driver board as shown below:
 
-    5V+ connect to +5V
-    5V-  connect to 0V (Ground)
-    IN1: to Arduino digital input pin 8
-    IN2: to Arduino digital input pin 9
-    IN3: to Arduino digital input pin 10
-    IN4: to Arduino digital input pin 11 
+# Steeper-Motor
+
+## Features
+
+- Stepper motor is a brushless DC motor that divides the full rotation angle of 360° into number of equal steps.
+- The motor is rotated by applying certain sequence of control signals. The speed of rotation can be changed by changing the rate at which the control signals are applied.
+- For more information about Stepper Motor, its control sequence and how to use it, refer the topic Stepper Motor in the sensors and modules section.
+- Raspberry Pi’s GPIOs can be used to control stepper motor rotation. We can generate sequence of control signals on the GPIO pins of Raspberry Pi. To know more about Raspberry Pi GPIO refer Raspberry Pi GPIO Access.
+
+
+## PINS Connection
+
+
+| Parameter | Description     |
+| :-------- | :-------------- |
+|   `5V+`   | **+5V Pin 2/4**.|
+|   `5V-`   | **GND Pin 6**   |
+|   `IN1`   | **Pin 8**.      |
+|   `IN2`   | **Pin 9**.      |
+|   `IN3`   | **Pin 10**.     |
+|   `IN4`   | **Pin 11**.     |
+
+
+## Run Command on Terminal
+Open Steeper-Motor Folder and Type Command In Terminal
+
+```bash
+  python3 run.py
+```
+OR
+
+```bash
+  python3 run2.py
+```
+
+
+## Screenshots
+
+![App Screenshot](https://linuxhint.com/wp-content/uploads/2022/02/image6-34.png)
+
+![App Screenshot](https://www.electronicwings.com/storage/PlatformSection/TopicContent/340/description/Stepper%20Motor%20Interfcae%20with%20Raspberry.png)
+
+
+## Documentation
+
+[Documentation](http://www.4tronix.co.uk/arduino/Stepper-Motors.php)
+
+
+# Enjoy !!!
+
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  <b> Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
+</p>
