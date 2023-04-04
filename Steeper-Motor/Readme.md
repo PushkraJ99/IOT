@@ -54,9 +54,10 @@ OR
 **----------------------------------------------------------------------------------**
 
 
-## Documentation
+## Documentation For run3.py Code
 
-[Documentation](http://www.4tronix.co.uk/arduino/Stepper-Motors.php)
+[Documentation](https://makersportal.com/blog/raspberry-pi-stepper-motor-control-with-nema-17)
+[Video]https://www.youtube.com/watch?list=TLGGtnJc7T1XLUowNDA0MjAyMw&v=lJb_g7JadNA)
 
 
 # Enjoy !!!
