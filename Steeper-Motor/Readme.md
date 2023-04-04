@@ -47,11 +47,12 @@ OR
 ## Screenshots
 
 ![App Screenshot](https://linuxhint.com/wp-content/uploads/2022/02/image6-34.png)
-**----------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------** <br>
 ![App Screenshot](https://www.electronicwings.com/storage/PlatformSection/TopicContent/340/description/Stepper%20Motor%20Interfcae%20with%20Raspberry.png)
-**----------------------------------------------------------------------------------**
-run3.py Code Diagram ![App Screenshot](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1611529718061-Y0N4ZQCQOC3RNTC3CSYT/nema17_rpi_drv8825_drawing.png?format=1500w)
-**----------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------** <br>
+**run3.py Code Diagram**
+![App Screenshot](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1611529718061-Y0N4ZQCQOC3RNTC3CSYT/nema17_rpi_drv8825_drawing.png?format=1500w)
+**----------------------------------------------------------------------------------** <br>
 
 
 ## Documentation For run3.py Code
