@@ -11,7 +11,6 @@
 
 ## PINS Connection
 
-
 | Parameter | Description     |
 | :-------- | :-------------- |
 |   `5V+`   | **+5V Pin 2/4**.|
@@ -33,13 +32,20 @@ OR
 ```bash
   python3 run2.py
 ```
+OR
+```bash
+  python3 run3.py
+```
 
 
 ## Screenshots
 
 ![App Screenshot](https://linuxhint.com/wp-content/uploads/2022/02/image6-34.png)
-
+**----------------------------------------------------------------------------------**
 ![App Screenshot](https://www.electronicwings.com/storage/PlatformSection/TopicContent/340/description/Stepper%20Motor%20Interfcae%20with%20Raspberry.png)
+**----------------------------------------------------------------------------------**
+![App Screenshot](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1611529718061-Y0N4ZQCQOC3RNTC3CSYT/nema17_rpi_drv8825_drawing.png?format=1500w)
+**----------------------------------------------------------------------------------**
 
 
 ## Documentation
