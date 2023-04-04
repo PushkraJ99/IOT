@@ -24,6 +24,12 @@
 ## Run Command on Terminal
 Open Steeper-Motor Folder and Type Command In Terminal
 
+Installation Command for the RpiMotorLib
+```bash
+  sudo pip3 install rpimotorlib
+```
+
+Run Steeper Motor Program
 ```bash
   python3 run.py
 ```
