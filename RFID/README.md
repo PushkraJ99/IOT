@@ -11,3 +11,17 @@
 | `SCK`     |   **PIN 23**   |
 | `SDA`     |   **PIN 24**   |
 
+
+## Open Terminal & Type Below Commands
+
+ Run Python Program
+
+```bash
+  cd LED 
+  python rfid.py
+```
+OR
+```bash
+  cd LED
+  python3 rfid.py
+```
