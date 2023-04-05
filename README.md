@@ -34,7 +34,7 @@ Go to the Project Directory
   cd IOT
 ```
 
-Install Dependencies
+Install Dependencies Most Important Command Don't Forget to Install
 
 ```bash
   sudo pip install -r requirements.txt
