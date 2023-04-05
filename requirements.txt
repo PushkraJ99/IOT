@@ -2,3 +2,4 @@ spidev
 mfrc522
 tm1637
 python-telegram-bot
+telepot
