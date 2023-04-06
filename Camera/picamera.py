@@ -2,7 +2,7 @@ import picamera
 from time import sleep
 
 #Create Object for Picamera
-camera = picamera.Picamera()
+camera = picamera.PiCamera()
 
 #Set Resolution
 camera.resolution = (1024 , 768)
