@@ -2,9 +2,11 @@
 
 Raspberry Pi Software Configuration
 ```bash
+  sudo pip3 install picamera
   sudo raspi-config
 ```
 ```bash
+  Interface Option -> Legacy Camera -> Enable -> Yes -> OK -> Finish
   Interface Option -> SPI -> Enable -> Yes -> OK -> Finish
 ```
 Enter Cammand to Reboot
@@ -17,7 +19,7 @@ Enter Cammand to Reboot
    cd IOT/Camera
 ```
 
-###Run Python Program
+### Run Python Program
 ```bash
   cd Camera 
   python picamera.py
