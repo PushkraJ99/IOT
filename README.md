@@ -6,7 +6,7 @@ Setup & Run Any IoT Practicals With Only Single Command Lines
 
 
 ## Authors
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23D42029.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/PushkaraJ)
+[![TryHackMe](https://img.shields.io/badge/tryhackme-5AC710?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/PushkaraJ)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/you_are_not_goodlooking_but_he)
 
