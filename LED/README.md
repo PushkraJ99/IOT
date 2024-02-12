@@ -11,3 +11,8 @@ OR
   cd LED
   python3 Simple_LED.py
 ```
+OR
+```bash
+  cd Camera
+  ./Simple_LED.py
+```
