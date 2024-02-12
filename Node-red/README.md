@@ -5,6 +5,11 @@ Open NODE-RED Folder & Run Command
 ```bash
   sudo bash run.sh
 ```
+OR
+```bash
+  sudo ./run.sh
+```
+
 After Completing Terminal Setup by Above Command 
 
 Then Visit http://localhost:1880
