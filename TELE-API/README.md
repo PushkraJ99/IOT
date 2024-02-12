@@ -1,6 +1,6 @@
 ## For Telegram 
 
-Brfore Running Code Change Telegram API Keys in Code
+Brfore Running Code Change Telegram API Keys (Bot API Tokens) in Code
 
 Open TELE-API Folder & Run Command
 
