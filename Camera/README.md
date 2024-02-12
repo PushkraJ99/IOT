@@ -29,3 +29,8 @@ OR
   cd Camera
   python3 picamera.py
 ```
+OR
+```bash
+  cd Camera
+  ./picamera.py
+```
