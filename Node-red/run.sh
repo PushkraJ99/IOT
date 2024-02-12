@@ -5,3 +5,4 @@ npm install
 npm run build
 npm start
 node-red
+echo"http://localhost:1880"
