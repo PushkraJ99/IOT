@@ -25,3 +25,8 @@ OR
   cd LED
   python3 rfid.py
 ```
+OR
+```bash
+  cd LED
+  ./rfid.py
+```
